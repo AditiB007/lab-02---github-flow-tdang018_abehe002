@@ -1,0 +1,10 @@
+c-echo-count
+test
+*.out
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+lib/
